@@ -4,7 +4,7 @@ Starting in late September of 2018, you will find all long program source code,
 weblinks, and errata here. 
 These elements will be found in their own files for your examination and use.
 For now, the weblinks for the book can be found at-
-https://dropbox.com/bobk48/production/auxilliary/new_hyperlinks.txt
+https://www.dropbox.com/bobk48/home/production/auxilliary/new_hyperlinks.txt
 
 Advisory information will be updated regularly,appearing on this README page, and will give
 important changes in our representative Linux systems since the printing of the book.
