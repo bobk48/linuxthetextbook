@@ -3,8 +3,9 @@ Welcome to the Github site of Linux: The Textbook, 2nd edition!
 Starting in late September of 2018, you will find all long program source code, 
 weblinks, and errata here. 
 These elements will be found in their own files for your examination and use.
-For now, the weblinks for the book can be found at-
-https://www.dropbox.com/bobk48/home/production/auxilliary/new_hyperlinks.txt
+The weblinks for the book are now available, and
+in addition, as soon as the exact URL of the CRC website containing the supplementary
+material described in the Preface is available, it will be specified here.
 
 Advisory information will be updated regularly,appearing on this README page, and will give
 important changes in our representative Linux systems since the printing of the book.
@@ -27,4 +28,4 @@ or any other requests you make, and take appropriate action.
 Have fun, and keep playing!
 
 
-Last revised 7/24/2018
+Last revised 7/30/2018
