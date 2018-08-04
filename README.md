@@ -4,8 +4,10 @@ Starting in late September of 2018, you will find all long program source code,
 weblinks, and errata here. 
 These elements will be found in their own files for your examination and use.
 The weblinks for the book are now available, and
-in addition, as soon as the exact URL of the CRC website containing the supplementary
-material described in the Preface is available, it will be specified here.
+in addition, the URL of the CRC website containing the supplementary
+material described in the Preface is -
+
+https://www.crcpress.com/9781138710085
 
 Advisory information will be updated regularly,appearing on this README page, and will give
 important changes in our representative Linux systems since the printing of the book.
