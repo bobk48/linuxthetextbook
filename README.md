@@ -29,6 +29,8 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
+Advisory 2- We have now made advisory documents available in a folder. Our first installation into that folder is a .docx file that details how to install LXD on a CentOS 7.5 system with a ZFS backing store, and also how to give subsequently-created LXD containers a macvlan interface, so that they have an IP address in the same sub-net as the host automatically assigned to them by a DHCP server on your LAN. Check it out if you're a CentOS user!
+
 Advisory 1- The Caveat shown in Chapter W23, Section 2.1 is no longer true! Thanks to the efforts of the developer of LXD, Stephane Graber, instructions for installing LXD on CentOS 7.5 1804 (core) are available at the following URL-
 
 https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
@@ -36,4 +38,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 8/20/2018
+Last revised 8/25/2018
