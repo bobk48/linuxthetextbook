@@ -12,11 +12,7 @@ https://www.crcpress.com/9781138710085
 Advisory information will be updated regularly,appearing on this README page, and will give
 important changes in our representative Linux systems since the printing of the book.
 
-So far, we have added program source code in Linux-compatible text
-format for the following chapters, so you don't have to type in program listings shown in the
-printed book and the W chapters  that are more than a few lines long!
-
-Chapters 18,W19,W22,W27, and W28
+We have added all program source code in Linux-compatible text format.
 
 If you follow the instructions in the book Preface you will be able 
 to "pull" everything from this Github site to a git-enabled directory on your own computer! 
@@ -38,4 +34,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 8/25/2018
+Last revised 9/1/2018
