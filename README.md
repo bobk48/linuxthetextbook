@@ -25,6 +25,10 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
+Advisory 3- For your convenience, we have added the In-Chapter Exercise Solutions for Chapters 2,3,17,18,W19,W22,W23,W24,W25,W26,W27,W28, and W29.
+A complete set of these for all printed book chapters and W chapters will be available at the above listed CRC website for the book,
+and when that complete set is available, we will post an advisory here.
+
 Advisory 2- We have now made advisory documents available in a folder. Our first installation into that folder is a .docx file that details how to install LXD on a CentOS 7.5 system with a ZFS backing store, and also how to give subsequently-created LXD containers a macvlan interface, so that they have an IP address in the same sub-net as the host automatically assigned to them by a DHCP server on your LAN. Check it out if you're a CentOS user!
 
 Advisory 1- The Caveat shown in Chapter W23, Section 2.1 is no longer true! Thanks to the efforts of the developer of LXD, Stephane Graber, instructions for installing LXD on CentOS 7.5 1804 (core) are available at the following URL-
