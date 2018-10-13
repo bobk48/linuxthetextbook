@@ -1,31 +1,42 @@
 Welcome to the Github site of Linux: The Textbook, 2nd edition!
 
-Starting in September of 2018, you will find all long program source code, 
-weblinks, advisory information, and errata here. 
-These elements will be found in their own files, for your examination and use.
-The weblinks for the book are now available, and
-in addition, the URL of the CRC website containing the supplementary
-material described in the Preface is -
+Here you will find all long program source code, 
+advisory information, errata, and weblinks.
+
+The contents of the folders in this repository are as follows:
+
+ICE - In-Chapter Exercise solutions for sample chapters.
+advisories - Documents related to the advisories.
+chap18 through chapW28 - Long C, Python, etc. program source code for the listed chapters.
+Errata.docx - Errata found or reported by the Last revised date.
+README.md - This readme page contents.
+ch12.zip through chW30.zip - Long C, Python, etc. program source code for the listed chapters.
+weblinks.docx - Weblinks for all chapters.
+
+The above folders contain elements in individual files, for your examination, use, and download.
+
+The URL of the CRC website containing the supplementary
+material described in the Preface of the printed book is -
 
 https://www.crcpress.com/9781138710085
 
-Advisory information will be updated regularly,appearing on this README page, and will give
-important changes in our representative Linux systems since the printing of the book.
+Advisory information will be updated regularly, appearing on this README page in numerical order
+from bottom to top, oldest to most recent, giving important news about issues related to
+the content of this repository, and also keep you up to date on
+important changes to our representative Linux systems since the printing of the book.
 
-We have added all program source code in Linux-compatible text format.
-
-If you follow the instructions in the book Preface you will be able 
+If you follow the instructions in the printed book Preface, you will be able 
 to "pull" everything from this Github site to a git-enabled directory on your own computer! 
 Alternatively, you can just download the above-provided materials via a web
 browser interface.
 
-You can also report any errors you find in the printed book here.
-Just email bobk48@gmail.com, and we will evaluate your error reports
+we would greatly appreciate if you would also report any errors you find in the printed book here.
+Just email bobk48@gmail.com, and we will evaluate your error reports,
 or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
-Advisory 3- For your convenience, we have added the In-Chapter Exercise Solutions for Chapters 2,3,17,18,W19,W22,W23,W24,W25,W26,W27,W28, and W29.
+Advisory 3- For your convenience, we have added the In-Chapter Exercise Solutions for Chapters 2,3,17,18,W19,W22,W23,W24,W25,W26,W27,W28, and W29 in the folder ICE.
 A complete set of these for all printed book chapters and W chapters will be available at the above listed CRC website for the book,
 and when that complete set is available, we will post an advisory here.
 
@@ -38,4 +49,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 10/11/2018
+Last revised 10/13/2018
