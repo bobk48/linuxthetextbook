@@ -36,7 +36,7 @@ to "pull" everything from this Github site to a git-enabled directory on your ow
 Alternatively, you can just download the above-provided materials via a web
 browser interface.
 
-we would greatly appreciate if you would also report any errors you find in the printed book here.
+Manssor and I would greatly appreciate if you would also report any errors you find in the printed book here.
 Just email bobk48@gmail.com, and we will evaluate your error reports,
 or any other requests you make, and take appropriate action.
 
