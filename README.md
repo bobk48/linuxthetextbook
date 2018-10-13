@@ -6,14 +6,20 @@ advisory information, errata, and weblinks.
 The contents of the folders in this repository are as follows:
 
 ICE - In-Chapter Exercise solutions for sample chapters.
+
 advisories - Documents related to the advisories.
+
 chap18 through chapW28 - Long C, Python, etc. program source code for the listed chapters.
+
 Errata.docx - Errata found or reported by the Last revised date.
+
 README.md - This readme page contents.
+
 ch12.zip through chW30.zip - Long C, Python, etc. program source code for the listed chapters.
+
 weblinks.docx - Weblinks for all chapters.
 
-The above folders contain elements in individual files, for your examination, use, and download.
+The above folders contain elements either sub-folders, or in individual files, for your examination, use, and download.
 
 The URL of the CRC website containing the supplementary
 material described in the Preface of the printed book is -
@@ -22,7 +28,7 @@ https://www.crcpress.com/9781138710085
 
 Advisory information will be updated regularly, appearing on this README page in numerical order
 from bottom to top, oldest to most recent, giving important news about issues related to
-the content of this repository, and also keep you up to date on
+the content of this repository, and also keeping you up to date on
 important changes to our representative Linux systems since the printing of the book.
 
 If you follow the instructions in the printed book Preface, you will be able 
