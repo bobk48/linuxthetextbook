@@ -3,7 +3,7 @@ Welcome to the Github site of Linux: The Textbook, 2nd edition!
 Here you will find all long program source code, 
 advisory information, errata, and weblinks.
 
-The contents of the folders in this repository are as follows:
+The contents of the folders and files in this repository are as follows:
 
 ICE - In-Chapter Exercise solutions for sample chapters.
 
@@ -19,7 +19,7 @@ ch12.zip through chW30.zip - Long C, Python, etc. program source code for the li
 
 weblinks.docx - Weblinks for all chapters.
 
-The above folders contain elements either sub-folders, or in individual files, for your examination, use, and download.
+The above folders contain elements in either sub-folders, or in individual files, for your examination, use, and download.
 
 The URL of the CRC website containing the supplementary
 material described in the Preface of the printed book is -
