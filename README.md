@@ -1,4 +1,4 @@
-Welcome to the Github site of Linux: The Textbook, 2nd edition!
+Welcome to the GitHub site of Linux: The Textbook, 2nd edition!
 
 Here you will find all long program source code, 
 advisory information, errata, and weblinks.
@@ -32,7 +32,7 @@ the content of this repository, and also keeping you up to date on
 important changes to our representative Linux systems since the printing of the book.
 
 If you follow the instructions in the printed book Preface, you will be able 
-to "pull" everything from this Github site to a git-enabled directory on your own computer! 
+to "pull" everything from this GitHub site to a git-enabled directory on your own computer! 
 Alternatively, you can just download the above-provided materials via a web
 browser interface.
 
@@ -41,6 +41,8 @@ Just email bobk48@gmail.com, and we will evaluate your error reports,
 or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
+
+Advisory 4- We have added generic instructions for how to fork and sync the contents of a GitHub repo, and placed these instructions in the advisories folder, in a file named forking.docx. You can experiment with these generic instructions, and then, as an alternative to "pulling" everything from this GitHub site for the book, as specified in the Preface, you can adapt the generic instructions to fork and keep your local copy of the book's Github repo up to date via syncing.
 
 Advisory 3- For your convenience, we have added the In-Chapter Exercise Solutions for Chapters 2,3,17,18,W19,W22,W23,W24,W25,W26,W27,W28, and W29 in the folder ICE.
 A complete set of these for all printed book chapters and W chapters will be available at the above listed CRC website for the book,
@@ -55,4 +57,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 10/13/2018
+Last revised 10/16/2018
