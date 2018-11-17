@@ -42,6 +42,8 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
+Advisory 5- We have added an example to the advisories folder of how to share a ZFS zpool on a server with a client on the same network, using the Network File System(NFS). This example bridges the gap between our presentation of ZFS, and a typical modern topic in Linux, NFS.
+
 Advisory 4- We have added generic instructions for how to fork and sync the contents of a GitHub repo, and placed these instructions in the advisories folder, in a file named forking.docx. You can experiment with these generic instructions, and then, as an alternative to "pulling" everything from this GitHub site for the book, as specified in the Preface, you can adapt the generic instructions to fork and keep your local copy of the book's Github repo up to date via syncing.
 
 Advisory 3- For your convenience, we have added the In-Chapter Exercise Solutions for Chapters 2,3,17,18,W19,W22,W23,W24,W25,W26,W27,W28, and W29 in the folder ICE.
@@ -57,4 +59,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 10/16/2018
+Last revised 11/17/2018
