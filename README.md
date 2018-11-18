@@ -42,6 +42,12 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
+Advisory 6- There's a great, and very useful for beginners Integrated Development Environment (IDE) for Python 3 on Linux, named "Thonny". If you are just starting out in Python, and have not looked at Chapter W19 yet, you can download Thonny on a Linux Mint 19 system with the following command-
+
+sudo apt-get install thonny
+
+Then, with the extensive documentation available with that system, you can run through everything shown in our Chapter W19, and use Thonny! Or, if you have gone through all of Chapter W19, you can use Thonny to redo the examples and problems presented there, and see how an IDE expedites your use of Python.
+
 Advisory 5- We have added an example to the advisories folder of how to share a ZFS zpool on a server with a client on the same network, using the Network File System(NFS). This example bridges the gap between our presentation of ZFS, and a typical modern topic in Linux, NFS.
 
 Advisory 4- We have added generic instructions for how to fork and sync the contents of a GitHub repo, and placed these instructions in the advisories folder, in a file named forking.docx. You can experiment with these generic instructions, and then, as an alternative to "pulling" everything from this GitHub site for the book, as specified in the Preface, you can adapt the generic instructions to fork and keep your local copy of the book's Github repo up to date via syncing.
@@ -59,4 +65,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 11/17/2018
+Last revised 11/18/2018
