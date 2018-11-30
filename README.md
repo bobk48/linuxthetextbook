@@ -42,6 +42,14 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
+Advisory 7- A good example of a Linux distro running Wayland is Fedora 29 Desktop, with Gnome as the default desktop environment. Once you have installed Fedora 29 Desktop on your computer, the following commands issued in a terminal show that Wayland is indeed the display system being used:
+$ loginctl
+SESSION  UID USER SEAT  TTY 
+      2 1000 bob  seat0 tty2
+$ loginctl show-session 2 -p Type
+Type=wayland
+$
+
 Advisory 6- There's a great, and very useful for beginners Integrated Development Environment (IDE) for Python 3 on Linux, named "Thonny". If you are just starting out in Python, and have not looked at Chapter W19 yet, you can download Thonny on a Linux Mint 19 system with the following command-
 
 sudo apt-get install thonny
@@ -65,4 +73,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 11/18/2018
+Last revised 11/29/2018
