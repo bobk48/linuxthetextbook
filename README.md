@@ -42,7 +42,11 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
-Advisory 7- A good example of a Linux distro running Wayland is Fedora 29 Desktop, with Gnome as the default desktop environment. Once you have installed Fedora 29 Desktop on your computer, the following commands issued in a terminal show that Wayland is indeed the display system being used:
+---------------------------
+
+Advisory 8- Just a note about Linux distros, we have found that it is easier for a beginner to work with "downstream" distros (like Linux Mint or CentOS) rather than "upstream" ones (like Debian or Fedora). You can kinda see this reflected in Appendix A Installation Instructions in the printed book, where the upstream distros have way more complicated instructions for installing things, such as ZFS, if they have them at all!
+
+Advisory 7- A good example of a progressive, forward looking Linux distro running Wayland is Fedora 29 Desktop, with Gnome as the default desktop environment. Once you have installed Fedora 29 Desktop on your computer, the following commands issued in a terminal show that Wayland is indeed the display system being used:
 
 $ loginctl
 
@@ -79,4 +83,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 11/29/2018
+Last revised 12/1/2018
