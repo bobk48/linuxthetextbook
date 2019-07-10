@@ -44,7 +44,7 @@ Have fun, and keep playing!
 
 ---------------------------
 
-Advisory 9- Within the next few days, the In-Chapter Exercise and End-of-Chapter Problem Solutions supplements for the book, which we describe in the Preface, will be completed, and uploaded for use on both the Student and Instructor portions of the CRC website for the book mentioned above. These supplements will greatly enhance the usability of the book, for both teachers, and individual student learners. This advisory will be edited on the date that these resources become available on the book website, to inform you as such.
+Advisory 9 *Edited 7/10/2019- Within the next few days, the In-Chapter Exercise and End-of-Chapter Problem Solutions supplements for the book, which we describe in the Preface, will be completed, and uploaded for use on both the Student and Instructor portions of the CRC website for the book mentioned above. These supplements will greatly enhance the usability of the book, for both teachers, and individual student learners. We will post a new advisory on the date that these resources become available on the book website, to inform you as such.
 
 Advisory 8- Just a note about Linux distros, we have found that it is easier for a beginner to work with "downstream" distros (like Linux Mint or CentOS) rather than "upstream" ones (like Debian or Fedora). You can kinda see this reflected in Appendix A Installation Instructions in the printed book, where the upstream distros have way more complicated instructions for installing things, such as ZFS, if they have them at all!
 
@@ -85,4 +85,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 6/11/2019
+Last revised 7/10/2019
