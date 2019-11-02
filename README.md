@@ -44,6 +44,11 @@ Have fun, and keep playing!
 
 ---------------------------
 
+Advisory 12- To supplement the package management commands shown in the printed book, Appendix A,
+which describe the apt-get command, it would be very worthwhile for you to use the Aptitude package
+manager, described more fully at https://www.debian.org/doc/manuals/aptitude/index.en.html
+This package manager has a text-based menu system that can be very usefully used to update the
+packages installed on your Debian system. 
 
 Advisory 11- The In-Chapter Exercise and End-of-Chapter Problem Solutions supplements specified in the Preface are now available at the CRC website for the book mentioned above.
 
@@ -90,4 +95,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 8/30/2019
+Last revised 11/2/2019
