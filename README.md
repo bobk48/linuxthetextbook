@@ -42,6 +42,11 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
+Question of the Day- You are logged onto a Linux system using only a terminal command line. Specify completely two(2)
+different commands that would display the current systemd target.
+
+Answer- Email bobk for this answer!
+
 ---------------------------
 
 Advisory 12- To supplement the package management commands shown in the printed book, Appendix A,
