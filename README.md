@@ -21,10 +21,10 @@ weblinks.docx - Weblinks for all chapters.
 
 The above folders contain elements in either sub-folders, or in individual files, for your examination, use, and download.
 
-The URL of the CRC website containing the supplementary
+The newly revised URL of the CRC website containing the supplementary
 material described in the Preface of the printed book is -
 
-https://www.crcpress.com/9781138710085
+https://www.routledge.com/Linux-The-Textbook-Second-Edition/Sarwar-Koretsky/p/book/9780367571061
 
 Advisory information will be updated regularly, appearing on this README page in numerical order
 from bottom to top, oldest to most recent, giving important news about issues related to
@@ -48,6 +48,15 @@ different commands that would display the current systemd target.
 Answer- Email bobk48@gmail.com for this answer!
 
 ---------------------------
+
+Advisory 13- The newly revised link to the CRC website containing the supplementary 
+materials specified in the Preface to the printed book has been changed to-
+
+https://www.routledge.com/Linux-The-Textbook-Second-Edition/Sarwar-Koretsky/p/book/9780367571061 
+
+As of 8/17/2020, this website does not contain all of the items designated in the Preface!
+But, when all of them become available, we will issue a new advisory letting you know.
+For now, you can use the ICE folder above to get the In-Chapter Exercise solutions. 
 
 Advisory 12- To supplement the package management commands shown in the printed book, Appendix A,
 which describe the apt-get command, it would be very worthwhile for you to use the Aptitude package
@@ -100,4 +109,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 11/3/2019
+Last revised 8/17/2020
