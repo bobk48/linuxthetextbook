@@ -11,6 +11,10 @@ advisories - Documents related to the advisories.
 
 chap18 through chapW28 - Long C, Python, etc. program source code for the listed chapters.
 
+double_u - All of the supplementary chapters that further extend the content of the
+book into more advanced topics. Listed as W19 through W30, some as .docx Word files,
+and some as .pdf files.
+
 Errata.docx - Errata found or reported by the Last revised date.
 
 README.md - This readme page contents.
@@ -42,12 +46,9 @@ or any other requests you make, and take appropriate action.
 
 Have fun, and keep playing!
 
-Question of the Day- You are logged onto a Linux system using only a terminal command line. Specify completely two(2)
-different commands that would display the current systemd target.
-
-Answer- Email bobk48@gmail.com for this answer!
-
 ---------------------------
+
+Advisory 14- We've added all of the W Chapters here for your reference.
 
 Advisory 13- The newly revised link to the CRC website containing the supplementary 
 materials specified in the Preface to the printed book has been changed to-
