@@ -48,6 +48,12 @@ Have fun, and keep playing!
 
 ---------------------------
 
+Advisory 15- In the supplementary chapter W23, in Example W23.9, Requirements Step 1., make sure in the command 
+VBoxManage modifyvm "VMname" --natnet1 "192.168/16", you precede the command argument natnet with two(2) hyphen
+characters. When we tested this Example on Linux Mint 20, with an Ubuntu 20.04 virtual machine in VirtualBox,
+we used the equivalent command VBoxManage modifyvm "VMname" --nat-network1 "192.169/16" and it worked just as
+well. No need for double quotes around VMname, but double quotes around the option argument 192.168/16 worked.
+
 Advisory 14- We've added all of the W Chapters here for your reference.
 
 Advisory 13- The newly revised link to the CRC website containing the supplementary 
@@ -110,4 +116,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 8/17/2020
+Last revised 9/7/2020
