@@ -48,6 +48,14 @@ Have fun, and keep playing!
 
 ---------------------------
 
+Advisory 18- If you're interested in setting up mdadm on your Linux installation, the following link
+is a great supplement to Section 4.7.1 in Chapter W26. It provides you with up-to-date advisories about
+mdadm installation and maintenance:
+
+https://www.tecmint.com/create-raid1-in-linux/comment-page-5/#comment-1443154
+
+Can you answer the question posed in the comment?
+
 Advisory 17- Here's a great link to a book on creating GUI's with Python:
 
 https://magazines-attachments.raspberrypi.org/books/full_pdfs/000/000/037/original/000_guizero_DIGITAL.pdf?1603705698
@@ -132,4 +140,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 10/27/2020
+Last revised 2/3/2021
