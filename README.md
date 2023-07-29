@@ -5,17 +5,17 @@ advisory information, errata, and weblinks.
 
 The contents of the folders and files in this repository are as follows:
 
-ICE - In-Chapter Exercise solutions for Chapters 1-18, plus many W Chapters.
+ICE - In-Chapter Exercise solutions for Chapters 1-18.
 
 advisories - Documents related to the advisories.
 
-chap18 through chapW28 - Long C, Python, etc. program source code for the listed chapters.
+Long C, Python, etc. program source code for the printed book chapters.
 
 Errata.docx - Errata found or reported by the Last revised date.
 
 README.md - This readme page contents.
 
-ch12.zip through chW30.zip - Long C, Python, etc. program source code for the listed chapters.
+Long C, Python, etc. program source code for the printed book chapters.
 
 weblinks.docx - Weblinks for all chapters.
 
