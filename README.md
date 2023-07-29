@@ -19,7 +19,11 @@ Long C, Python, etc. program source code for the printed book chapters.
 
 weblinks.docx - Weblinks for all chapters.
 
-The above folders contain elements in either sub-folders, or in individual files, for your examination, use, and download.
+Plus, I just added back the W Chapters on Advanced System Proramming and TC shell scripting as
+Chap_W20,21,29, & 30.
+
+The folders contain elements in either sub-folders, or in individual files, for your examination, 
+use, and download.
 
 The newly revised URL of the CRC website containing the supplementary
 material described in the Preface of the printed book is -
