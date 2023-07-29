@@ -11,10 +11,6 @@ advisories - Documents related to the advisories.
 
 chap18 through chapW28 - Long C, Python, etc. program source code for the listed chapters.
 
-double_u - All of the supplementary chapters that further extend the content of the
-book into more advanced topics. Listed as W19 through W30, some as .docx Word files,
-and some as .pdf files.
-
 Errata.docx - Errata found or reported by the Last revised date.
 
 README.md - This readme page contents.
@@ -47,6 +43,11 @@ or any other requests you make, and take appropriate action.
 Have fun, and keep playing!
 
 ---------------------------
+
+Advisory 20- I've deleted all of the W Chapters, in anticipation of posting them in the new repo
+ RaspberryPiOS, in a more edited, and error-corrrected form. Keep your eye on that repo, and as
+soon as the first volume of the new book is pubplished by CRC/T&F, the W Chapters will begin to
+magically reappear, in more finished, complete, and Raspberry Pi format!
 
 Advisory 19- We have added an updated version of the weblinks file, weblinks.docx, which now contains
 hyperlinks to resources for password cracking techniques, and other relevant password info, from
@@ -144,4 +145,4 @@ https://discuss.linuxcontainers.org/t/lxd-on-centos-7/1250/5
 Follow these and you can then proceed to use CentOS 7.5 to accomplish what is shown in Chapter W23 on virtualization in Linux. The instructions also include installation of ZFS on CentOS 7.5, and allow integration of ZFS with your LXD containers. Of course, that integration is covered in Chapter W23 for Debian-family systems, and you will have to adapt what is shown there for CentOS.
 
 
-Last revised 4/19/2021
+Last revised 7/29/2023
