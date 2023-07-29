@@ -50,7 +50,7 @@ Have fun, and keep playing!
 
 Advisory 20- I've deleted all of the W Chapters, in anticipation of posting them in the new repo
  RaspberryPiOS, in a more edited, and error-corrrected form. Keep your eye on that repo, and as
-soon as the first volume of the new book is pubplished by CRC/T&F, the W Chapters will begin to
+soon as the first volume of the new book is published by CRC/T&F, the W Chapters will begin to
 magically reappear, in more finished, complete, and Raspberry Pi format!
 
 Advisory 19- We have added an updated version of the weblinks file, weblinks.docx, which now contains
